@@ -12,6 +12,7 @@ requires-python = ">=3.10"
 authors = [{name = "Prem Kumar"}]
 dependencies = [
     "PyYAML>=6.0",
+    "mcp>=2.0",
 ]
 
 [project.optional-dependencies]
